@@ -1,4 +1,4 @@
 # Faiz-Projects
-This repo has a Python Project by Faiz I Mahbub 
-This Code is for academic purpose only
-Source: University of Toronto Machine Learning 3253 (Faiz was a student)
+This repo has Python Projects by Faiz I Mahbub 
+These codes are for academic purposes only
+Source: Professional Work & University of Toronto Machine Learning
